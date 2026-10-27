@@ -15,3 +15,20 @@ section{padding:45px 0}.grid{display:grid;grid-template-columns:repeat(3,1fr);ga
 .language-control select{background:#13253b;color:#fff;border:1px solid #ffffff55;border-radius:9px;padding:8px 10px;font:inherit;cursor:pointer}
 .language-control select:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 @media(max-width:750px){.language-control{align-self:flex-start}.nav{gap:10px}nav{gap:10px}}
+
+/* Preview refinement: compact mobile navigation and branded imagery */
+.hero{background-image:linear-gradient(90deg,rgba(7,17,30,.92) 0%,rgba(7,17,30,.68) 48%,rgba(7,17,30,.23) 100%),url('OlekSofi_hero_banner.png');background-position:center;background-size:cover}
+#about{background:radial-gradient(ellipse at 85% 5%,rgba(81,142,204,.12),transparent 55%),#07111e}
+.highlight{background:linear-gradient(110deg,rgba(7,17,30,.92),rgba(12,26,42,.85)),url('Trader_Assistant_Bull.jpg') center/cover}
+@media(max-width:750px){
+ header{position:relative}
+ .nav{padding:12px 16px;gap:9px}
+ .brand{font-size:23px}.brand img{width:42px;height:42px}
+ nav{display:flex;flex-wrap:nowrap;overflow-x:auto;width:100%;gap:7px;padding:2px 0 7px;scrollbar-width:thin}
+ nav a{font-size:12px;white-space:nowrap;padding:8px 10px;border:1px solid #ffffff20;border-radius:20px}
+ nav .contact-btn{padding:8px 12px}
+ .language-control{align-self:flex-end;margin-top:-2px}
+ .hero{min-height:470px;background-position:58% center}
+ .wrap{padding:30px 18px}
+ .tile{padding:22px}
+}
