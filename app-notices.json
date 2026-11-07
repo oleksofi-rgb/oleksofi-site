@@ -1,5 +1,60 @@
 {
   "version": 1,
-  "generated_at": 1793858783,
-  "notices": []
+  "generated_at": 1794031999,
+  "notices": [
+    {
+      "id": "notice-test-20261107",
+      "revision": 1,
+      "published_at": 1794031999,
+      "starts_at": 1794031999,
+      "ends_at": 1794039199,
+      "severity": "info",
+      "translations": {
+        "uk": {
+          "title": "Перевірка повідомлень",
+          "body": "Вітаємо! Це тестове повідомлення OlekSofi. Якщо ви бачите цей текст, вікно повідомлень працює. Натисніть «Позначити прочитаним», щоб перевірити позначку прочитання."
+        },
+        "en": {
+          "title": "Message test",
+          "body": "Hello! This is an OlekSofi test message. If you can see this text, the message panel is working. Mark it as read to test the read indicator."
+        },
+        "pl": {
+          "title": "Test wiadomości",
+          "body": "Witamy! To jest wiadomość testowa OlekSofi. Jeśli widzisz ten tekst, panel wiadomości działa. Oznacz ją jako przeczytaną, aby sprawdzić wskaźnik odczytu."
+        },
+        "de": {
+          "title": "Nachrichtentest",
+          "body": "Hallo! Dies ist eine Testnachricht von OlekSofi. Wenn du diesen Text siehst, funktioniert das Nachrichtenfenster. Markiere die Nachricht als gelesen, um die Leseanzeige zu testen."
+        },
+        "ja": {
+          "title": "メッセージのテスト",
+          "body": "こんにちは！これはOlekSofiのテストメッセージです。この文章が表示されれば、メッセージ画面は動作しています。既読にして、既読表示を確認してください。"
+        },
+        "fr": {
+          "title": "Test des messages",
+          "body": "Bonjour ! Ceci est un message de test OlekSofi. Si vous voyez ce texte, le panneau des messages fonctionne. Marquez le message comme lu pour tester l’indicateur de lecture."
+        },
+        "es": {
+          "title": "Prueba de mensajes",
+          "body": "¡Hola! Este es un mensaje de prueba de OlekSofi. Si ves este texto, el panel de mensajes funciona. Márcalo como leído para probar el indicador de lectura."
+        },
+        "it": {
+          "title": "Test dei messaggi",
+          "body": "Ciao! Questo è un messaggio di prova OlekSofi. Se vedi questo testo, il pannello dei messaggi funziona. Segnalo come letto per verificare l’indicatore di lettura."
+        },
+        "zh": {
+          "title": "消息测试",
+          "body": "您好！这是一条OlekSofi测试消息。如果您看到这段文字，说明消息面板正常工作。请将消息标记为已读，测试已读提示。"
+        },
+        "hi": {
+          "title": "संदेश परीक्षण",
+          "body": "नमस्ते! यह OlekSofi का परीक्षण संदेश है। यदि आपको यह पाठ दिख रहा है, तो संदेश पैनल काम कर रहा है। पढ़े जाने का संकेत जाँचने के लिए इसे पढ़ा हुआ चिह्नित करें।"
+        },
+        "ru": {
+          "title": "Проверка сообщений",
+          "body": "Здравствуйте! Это тестовое сообщение OlekSofi. Если вы видите этот текст, окно сообщений работает. Отметьте сообщение как прочитанное, чтобы проверить индикатор прочтения."
+        }
+      }
+    }
+  ]
 }
